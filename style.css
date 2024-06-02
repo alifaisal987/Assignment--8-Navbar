@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: black;
+ padding: 20px;
+}
+li{
+    color: #ffffff;
+
+}
+li{
+    display: inline;
+    margin: 0  auto;
+  
+}
+ul{
+    text-align: end;
+  
+    
+}
