@@ -1,13 +1,20 @@
+html{
+    font-family: "Poppins", sans-serif;
+}
 *{
     margin: 0;
     padding: 0;
 }
 div{
     background-color: black;
- padding: 20px;
+    padding: 20px;
+    cursor: pointer;
+   
 }
 li{
     color: #ffffff;
+    padding: 30px;
+    
 
 }
 li{
@@ -18,5 +25,9 @@ li{
 ul{
     text-align: end;
   
+    
+}
+li:hover{
+    color: aqua;
     
 }
